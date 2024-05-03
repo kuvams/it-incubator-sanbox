@@ -1,1 +1,1 @@
-console.log("Hello Wold");
+let xp = 0;
